@@ -6,9 +6,7 @@ question_data = [
     {"text": "Fill in the blank: Bash stands for _______ Again Shell", "answer": "Bourne"},
     {"text": "What is the Linux command to print the last ten lines of a text file?", "answer": "tail"},
     {"text": "The founder of Linux also authored this software to track file changes", "answer": "Git"},
+    {"text": "Which Linux command allows you to move and rename files and directories?", "answer": "mv"},
+    {"text": "Which Linux command displays the current user's username?", "answer": "whoami"},
     {"text": "aaaaaaaaaaaaa", "answer": "aa"},
-    {"text": "aaaaaaaaaaaaa", "answer": "aa"},
-    {"text": "aaaaaaaaaaaaa", "answer": "aa"},
-    {"text": "aaaaaaaaaaaaa", "answer": "aa"},
-    {"text": "aaaaaaaaaaaaa", "answer": "aa"}
 ]
