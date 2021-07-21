@@ -1,3 +1,4 @@
+# questions to be asked of the quiz taker
 question_data = [
     {"text": "What is the first name of the person who created the Linux kernel?", "answer": "Linus"},
     {"text": "What is the Linux command for making a new directory?", "answer": "mkdir"},
