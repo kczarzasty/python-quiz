@@ -17,8 +17,8 @@ class Quiz:
     def check_answer(self, user_answer, answer):
         if user_answer.lower() == answer.lower():
             self.score += 1
-            print("You are Correct!")
+            print("Correct answer!")
         else:
             print("Sorry, you are Incorrect")
-        print(f"The correct answer was: {answer}")
+        print(f"The correct answer is: {answer}")
         print(f"Your current score is: {self.score}/{self.question_number}\n")
