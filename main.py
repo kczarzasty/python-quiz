@@ -1,6 +1,8 @@
 #main.py built to conduct the quiz
-from question-data import question_data
+import data
+from data import question_data
 from question_model import Question
+from quiz import Quiz
 
 question_bank = []
 for q in question_data:
