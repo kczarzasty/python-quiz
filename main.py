@@ -1,4 +1,4 @@
-#main.py built to conduct the quiz
+# built to conduct the quiz
 import data
 from data import question_data
 from question_model import Question
