@@ -1,4 +1,4 @@
-# questions to be asked of the quiz taker
+# data featuring questions to be asked of the quiz taker
 question_data = [
     {"question": "Linus is the first name of the person who created the Linux kernel.", "answer": "True"},
     {"question": "mkdir is the Linux command for making a new directory.", "answer": "True"},
