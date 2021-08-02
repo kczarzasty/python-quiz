@@ -11,7 +11,7 @@ class Quiz:
         self.check_answer(user_answer, current_question.answer)
 
     def remaining_questions(self):
-        #check to see if the current question number is less than the amount of questions
+        #check if the current question number is less than amount of questions
         return self.question_number < len(self.question_list)
 
     def check_answer(self, user_answer, answer):
